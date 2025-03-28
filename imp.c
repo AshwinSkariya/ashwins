@@ -23,6 +23,7 @@ int main()
             break;
         case 3:
             printf("You selected B.Tech AIML\n");
+	    printf("this is future proof course\n");
             break;
         case 4:
             printf("You selected B.Tech ECE\n");
