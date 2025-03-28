@@ -15,6 +15,7 @@ int main()
 	switch (choose) {
         case 1:
             printf("You selected B.Tech CSE\n");
+	    printf("i choose this  cource \n");
             break;
         case 2:
             printf("You selected B.Tech CSE(Robtics)\n");
