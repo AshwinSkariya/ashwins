@@ -31,6 +31,7 @@ int main()
             break;
         case 5:
             printf("You have selected B.Tech Mechanical\n");
+	    printf("this course is completely about practicals and deals with machines\n");
             return 0;
 	case 6:
 	    printf("Exit");
