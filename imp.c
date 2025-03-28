@@ -19,6 +19,7 @@ int main()
             break;
         case 2:
             printf("You selected B.Tech CSE(Robtics)\n");
+	    printf("this is related to machines \n");
             break;
         case 3:
             printf("You selected B.Tech AIML\n");
