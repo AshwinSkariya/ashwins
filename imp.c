@@ -27,6 +27,7 @@ int main()
             break;
         case 4:
             printf("You selected B.Tech ECE\n");
+	    printf("this deals with both theoritical and practical knowledge \n");
             break;
         case 5:
             printf("You have selected B.Tech Mechanical\n");
