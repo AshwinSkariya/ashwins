@@ -32,8 +32,6 @@ int main()
 	case 6:
 	    printf("Exit");
 	    printf("Thank you for using the branch selector!\n");
-        default:
-            printf("Invalid choice. Try again.\n");
     }
 
     return 0;
